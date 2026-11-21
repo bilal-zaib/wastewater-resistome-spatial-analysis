@@ -83,8 +83,3 @@ The original data archive is distinct from this repository: this repository hold
 
 ## Licence and citation
 
-[Choose a licence for the code, for example MIT, and add a `LICENSE` file before making the repository public. The derived tables inherit attribution requirements from the original data; keep the citation above.]
-
-[Add the manuscript citation or preprint DOI here when available.]
-
-[Contact: author name and email.]
